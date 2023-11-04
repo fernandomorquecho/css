@@ -1,6 +1,7 @@
 h1 {
   border: 2px solid #333; /* Largura, tipo (solid, dashed, etc.) e cor da borda */
   padding: 10px; /* Adiciona um espaçamento interno para afastar o texto da borda */
+  color: red;
 }
 
 
