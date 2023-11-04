@@ -5,7 +5,7 @@ h1 {
 
 
 .card {
-  border: 1px solid #ccc;
+  border: 5px solid #ccc;
   border-radius: 5px;
   box-shadow: 2px 2px 5px #888;
   padding: 20px;
@@ -16,7 +16,7 @@ h1 {
 
 /* Título do card */
 .card-title {
-  font-size: 18px;
+  font-size: 70px;
   font-weight: bold;
   margin-bottom: 10px;
 }
